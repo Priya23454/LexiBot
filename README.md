@@ -64,8 +64,8 @@ pip install llama-index llama-index-embeddings-huggingface llama-index-llms-hugg
 ---
 
 ## 👤 Author
-**Arjun Raj**
-*Technical Product Manager*
+**Kumari Priya Jha**
+*QA Engineer*
 
 ---
 # LexiBot
